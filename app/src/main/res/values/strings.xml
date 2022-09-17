@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StoryApps</string>
+    <string name="header_text">Silahkan isi data diri anda dibawah ini</string>
+    <string name="tittle">Story Page</string>
+    <string name="nama">Nama</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
